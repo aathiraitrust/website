@@ -2,7 +2,8 @@
 
 // These styles apply to every route in the application
 import '../styles/scss/global.scss';
-import Link from 'next/link';
+
+import { NavigationBar } from '../components/header/nav/NavigationBar';
 
 export default function RootLayout({
   children,
@@ -12,13 +13,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="container">
-        <nav className="navbar bg-body-tertiary">
-          <div className="container">
-            <Link className="navbar-brand" href="/">
-              <img src="/img/logo/aathirai_logo.png" alt="Aathirai" width="30" height="24" />
-            </Link>
-          </div>
-        </nav>
+        <NavigationBar />
         {children}
       </body>
     </html>

@@ -1,4 +1,4 @@
-import { AsyncCurrentTime, CurrentTime } from "../../../components/time/time"
+import { CurrentTime } from "../../../components/time/time"
 import * as timeModule from "../../../components/time/time_util"
 import { render, screen } from '@testing-library/react'
 import '@testing-library/jest-dom'
