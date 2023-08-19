@@ -29,7 +29,7 @@ export function NavigationBar() {
                 Events
               </button>
               <ul className={collapseEvents ? 'dropdown-menu' : 'dropdown-menu show'}>
-                <li><a className="dropdown-item" href="/">Our Events</a></li>
+                <li><a className="dropdown-item active bg-light" href="/">Our Events</a></li>
                 <li><a className="dropdown-item" href="/">Rising Star Projects</a></li>
               </ul>
             </li>
