@@ -25,7 +25,7 @@ export function NavigationBar() {
           <img data-testid="website-logo" src="/img/logo/aathirai_logo.png" alt="Aathirai" className='site-logo' />
         </Link>
         <div data-testid='navbar-section' className={['navbar-collapse', collapse].join(' ')}>
-          <ul className="navbar-nav me-auto mb-2 mb-lg-0">
+          <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
             <li className="nav-item">
               <Link data-testid="home-link" className="nav-link active bg-light" aria-current="page" href="/">Home</Link>
             </li>
