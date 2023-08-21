@@ -19,9 +19,12 @@ describe('NavigationBar', () => {
         )
         expect(screen.queryByTestId('home-link')).toHaveTextContent('Home');
         expect(screen.queryByTestId('about-us-link')).toHaveTextContent('About Us');
+        expect(screen.queryByTestId('beneficiaries-link')).toHaveTextContent('Our Beneficiaries');
         expect(screen.queryByTestId('events-dropdown')).toHaveTextContent('Events');
         expect(screen.queryByTestId('our-events-link')).toHaveTextContent('Our Events');
         expect(screen.queryByTestId('rising-star-link')).toHaveTextContent('Rising Star Projects');
+        expect(screen.queryByTestId('donate-link')).toHaveTextContent('To Donate');
+        expect(screen.queryByTestId('contact-us-link')).toHaveTextContent('Contact Us');
     })
 
     it('NavigationBar can toggle main menu', async () => {

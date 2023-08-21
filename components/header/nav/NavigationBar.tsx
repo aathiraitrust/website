@@ -32,6 +32,9 @@ export function NavigationBar() {
             <li className="nav-item">
               <Link data-testid="about-us-link" className="nav-link" href="/">About Us</Link>
             </li>
+            <li className="nav-item">
+              <Link data-testid="beneficiaries-link" className="nav-link" href="/">Our Beneficiaries</Link>
+            </li>
             <li className="nav-item dropdown">
               <button data-testid="events-dropdown" className={['nav-link', 'dropdown-toggle', showEvents].join(' ')} onClick={() => toggleEvents()} role="button" data-bs-toggle="dropdown">
                 Events
@@ -40,6 +43,12 @@ export function NavigationBar() {
                 <li><Link data-testid="our-events-link" className="dropdown-item active bg-light" href="/">Our Events</Link></li>
                 <li><Link data-testid="rising-star-link" className="dropdown-item" href="/">Rising Star Projects</Link></li>
               </ul>
+            </li>
+            <li className="nav-item">
+              <Link data-testid="donate-link" className="nav-link" href="/">To Donate</Link>
+            </li>
+            <li className="nav-item">
+              <Link data-testid="contact-us-link" className="nav-link" href="/">Contact Us</Link>
             </li>
           </ul>
         </div>
