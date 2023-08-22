@@ -1,4 +1,5 @@
 import { render, screen, waitFor } from '@testing-library/react'
+import userEvent from '@testing-library/user-event'
 import '@testing-library/jest-dom'
 import { NavigationBar } from '../../../../components/header/nav/NavigationBar'
 
@@ -28,29 +29,31 @@ describe('NavigationBar', () => {
     })
 
     it('NavigationBar can toggle main menu', async () => {
+        const user = userEvent.setup();
         render(
             <NavigationBar />
         )
         expect(screen.queryByTestId('navbar-section')).toHaveClass('collapse');
-        screen.queryByTestId('toggler-btn').click();
+        user.click(screen.queryByTestId('toggler-btn'));
         await waitFor(() => expect(screen.queryByTestId('navbar-section')).not.toHaveClass('collapse'));
-        screen.queryByTestId('toggler-btn').click();
+        user.click(screen.queryByTestId('toggler-btn'));
         await waitFor(() => expect(screen.queryByTestId('navbar-section')).toHaveClass('collapse'));
     })
 
 
     it('NavigationBar can toggle dropdown menu', async () => {
+        const user = userEvent.setup();
         render(
             <NavigationBar />
         )
         expect(screen.queryByTestId('events-dropdown')).not.toHaveClass('show');
         expect(screen.queryByTestId('events-dropdown-list')).not.toHaveClass('show');
-        screen.queryByTestId('events-dropdown').click();
+        user.click(screen.queryByTestId('events-dropdown'));
         await waitFor(() => {
             expect(screen.queryByTestId('events-dropdown')).toHaveClass('show');
             expect(screen.queryByTestId('events-dropdown-list')).toHaveClass('show');
         });
-        screen.queryByTestId('events-dropdown').click();
+        user.click(screen.queryByTestId('events-dropdown'));
         await waitFor(() => {
             expect(screen.queryByTestId('events-dropdown')).not.toHaveClass('show');
             expect(screen.queryByTestId('events-dropdown-list')).not.toHaveClass('show');
