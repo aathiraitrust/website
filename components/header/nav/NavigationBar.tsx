@@ -16,11 +16,11 @@ export function NavigationBar() {
           </Navbar.Brand>
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ms-auto">
-              <Nav.Link href="/" className='active bg-light'>Home</Nav.Link>
+              <Nav.Link href="/" active>Home</Nav.Link>
               <Nav.Link href="/">About Us</Nav.Link>
               <Nav.Link href="/">Our Beneficiaries</Nav.Link>
               <NavDropdown title="Events" id="basic-nav-dropdown">
-                <NavDropdown.Item href="/" className='active bg-light'>Our Events</NavDropdown.Item>
+                <NavDropdown.Item href="/" active>Our Events</NavDropdown.Item>
                 <NavDropdown.Item href="/">
                   Rising Star Projects
                 </NavDropdown.Item>

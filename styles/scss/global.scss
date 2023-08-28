@@ -25,4 +25,12 @@ $dropdown-link-hover-color: #000000;
   max-height: 38px
 }
 
+a.active.nav-link {
+  background-color: #c0ccda;
+}
+
+a.active.dropdown-item {
+  background-color: #c0ccda;
+}
+
 @import "/node_modules/bootstrap/scss/bootstrap";
