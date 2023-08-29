@@ -32,7 +32,7 @@ describe('NavigationBar', () => {
         ["/rising-star-projects/", "rising-star-projects-link"],
         ["/to-donate/", "to-donate-link"],
         ["/contact-us/", "contact-us-link"],
-      ])("renders NavigationBar with active link for pathname '%s'", async (inputPathname, expectedTestId) => {
+      ])("renders NavigationBar with active link for pathname '%s' and test id '%s' ", async (inputPathname, expectedTestId) => {
         usePathname.mockReturnValue(inputPathname);
 
         render(
