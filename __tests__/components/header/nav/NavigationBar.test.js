@@ -1,8 +1,19 @@
 import { render, screen } from '@testing-library/react'
 import '@testing-library/jest-dom'
 import { NavigationBar } from '../../../../components/header/nav/NavigationBar'
+import { usePathname } from "next/navigation";
+
+jest.mock('next/navigation', () => {
+    return {
+        usePathname: jest.fn()
+    }
+})
 
 describe('NavigationBar', () => {
+
+    beforeEach(() => {
+        usePathname.mockReturnValue('/');
+    });
 
     it('renders NavigationBar with logo', async () => {
         render(
@@ -22,8 +33,10 @@ describe('NavigationBar', () => {
         ["/to-donate/", "to-donate-link"],
         ["/contact-us/", "contact-us-link"],
       ])("renders NavigationBar with active link for pathname '%s'", async (inputPathname, expectedTestId) => {
+        usePathname.mockReturnValue(inputPathname);
+
         render(
-            <NavigationBar pathname={inputPathname} />
+            <NavigationBar />
         )
         const expectedElement = screen.queryByTestId(expectedTestId);
         expect(expectedElement).toBeInTheDocument();

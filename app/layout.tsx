@@ -4,7 +4,6 @@
 import '../styles/scss/global.scss';
 
 import { NavigationBar } from '../components/header/nav/NavigationBar';
-import { usePathname } from 'next/navigation';
 
 export default function RootLayout({
   children,
@@ -17,7 +16,7 @@ export default function RootLayout({
         <link rel="icon" type="image/png" href="/favicon/aathirai_favicon.png" />
       </head>
       <body className="container">
-        <NavigationBar pathname={usePathname()}/>
+        <NavigationBar />
         {children}
         <footer className="text-center">
           <div className="container">

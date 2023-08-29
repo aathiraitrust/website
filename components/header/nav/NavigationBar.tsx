@@ -3,12 +3,11 @@
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
+import { usePathname } from 'next/navigation';
 
-type NavigationBarProperties = {
-  pathname: string;
-}
+export function NavigationBar() {
 
-export function NavigationBar(props: NavigationBarProperties) {
+  const pathname = usePathname();
 
   return (
     <div>
@@ -19,7 +18,7 @@ export function NavigationBar(props: NavigationBarProperties) {
             <img data-testid="website-logo" src="/img/logo/aathirai_logo.png" alt="Aathirai" className='site-logo' />
           </Navbar.Brand>
           <Navbar.Collapse id="basic-navbar-nav">
-            <Nav activeKey={props.pathname} className="ms-auto">
+            <Nav activeKey={pathname} className="ms-auto">
               <Nav.Link data-testid="home-link" href="/">Home</Nav.Link>
               <Nav.Link data-testid="about-us-link" href="/about-us/">About Us</Nav.Link>
               <Nav.Link data-testid="our-beneficiaries-link" href="/our-beneficiaries/">Our Beneficiaries</Nav.Link>
