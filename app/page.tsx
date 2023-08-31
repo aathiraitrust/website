@@ -30,8 +30,8 @@ export default function Page() {
         <Carousel data-bs-theme="dark" interval={3000}>
           {
             carouselImages.map((item, index) => (
-              <Carousel.Item key={index}>
-                <img className='d-block mx-auto img-fluid' src={item} alt={"image " + (index + 1)} />
+              <Carousel.Item key={item}>
+                <img data-testid="carousel-img" className='d-block mx-auto img-fluid' src={item} alt={"image " + (index + 1)} />
               </Carousel.Item>
             ))
           }
