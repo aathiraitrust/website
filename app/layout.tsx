@@ -4,6 +4,7 @@
 import '../styles/scss/global.scss';
 
 import { NavigationBar } from '../components/header/nav/NavigationBar';
+import { Title } from '../components/head/title/title';
 
 export default function RootLayout({
   children,
@@ -14,6 +15,7 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <link rel="icon" type="image/png" href="/favicon/aathirai_favicon.png" />
+        <Title />
       </head>
       <body className="container">
         <NavigationBar />
