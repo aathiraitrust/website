@@ -3,6 +3,14 @@
 import Carousel from 'react-bootstrap/Carousel';
 
 export default function Page() {
+
+  const carouselImages = [
+    '/img/carousel/home_page_img_1.jpg',
+    '/img/carousel/home_page_img_2.jpg',
+    '/img/carousel/home_page_img_3.jpg',
+    '/img/carousel/home_page_img_4.jpg',
+  ]
+
   return (
     <div>
       <div className="text-center">
@@ -20,12 +28,13 @@ export default function Page() {
       </div>
       <div className='row'>
         <Carousel data-bs-theme="dark" interval={3000}>
-          <Carousel.Item>
-            <img className='d-block mx-auto img-fluid' src='/img/carousel/home_page_img_1.jpg' alt='image 1' />
-          </Carousel.Item>
-          <Carousel.Item>
-            <img className='d-block mx-auto img-fluid' src='/img/carousel/home_page_img_2.jpg' alt='image 2' />
-          </Carousel.Item>
+          {
+            carouselImages.map((item, index) => (
+              <Carousel.Item key={index}>
+                <img className='d-block mx-auto img-fluid' src={item} alt={"image " + (index + 1)} />
+              </Carousel.Item>
+            ))
+          }
         </Carousel>
       </div>
     </div>
