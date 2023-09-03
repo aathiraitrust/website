@@ -17,9 +17,11 @@ export default function RootLayout({
         <link rel="icon" type="image/png" href="/favicon/aathirai_favicon.png" />
         <Title />
       </head>
-      <body className="container">
+      <body>
         <NavigationBar />
-        {children}
+        <div className="container">
+          {children}
+        </div>
         <footer className="text-center">
           <div className="container">
             <br />

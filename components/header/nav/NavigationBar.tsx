@@ -11,7 +11,7 @@ export function NavigationBar() {
 
   return (
     <div>
-      <Navbar expand="lg" sticky="top" className="bg-body-tertiary">
+      <Navbar expand="lg" className="bg-body-tertiary fixed-top container">
         <Container fluid>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Brand href="/">
