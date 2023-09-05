@@ -50,12 +50,71 @@ export default function Page() {
         </p>
         <p><strong>Events</strong></p>
         <p>
-        We have conducted various events successfully through our Trust, more about events can be found on the <a href="/our-events/">Events Page</a>
+          We have conducted various events successfully through our Trust, more about events can be found on the <a href="/our-events/">Events Page</a>
         </p>
         <p><strong>Rising Star Project</strong></p>
         <p>
-        More about Rising Star Project can be found on the <a href="/rising-star-projects/">Rising Star Project</a>
+          More about Rising Star Project can be found on the <a href="/rising-star-projects/">Rising Star Project</a>
         </p>
+      </div>
+      <div className="row">
+        <h3 className="text-primary text-center">Vision and Mission</h3>
+        <div>
+          <p><strong>Vision</strong></p>
+          <p>
+            “Transform the lives of people in India through education, by providing financial assistance and
+            guidance”
+          </p>
+          <p><strong>Mission (Our objectives)</strong></p>
+          <ol>
+            <li>To pay fees and donate for the study expenses of the poor including for the purchase of text books,
+              uniforms
+              etc, and to meet their hostel and other expenses including higher studies, training or research
+            </li>
+            <li>To award scholarships, prizes, fellowships, grants and loans and other payments for the purpose of
+              study and
+              research in any and every field of knowledge
+            </li>
+            <li>To fulfill all conditions, that may be imposed for earning any grants or assistance for the purposes
+              of the
+              Trust from any Government, Municipal/Local of other Authority of other institutions
+            </li>
+            <li>To donate or pay for the poor elderly people for their maintenance or donate amount to such
+              organizations,
+              which is running homes for these people
+            </li>
+            <li>To provide food, shelter, medical relief, vocational guidance and any other relief /assistance to
+              the poor
+              and downtrodden sections of the society for alleviating their poverty and misery
+            </li>
+            <li>To perform or donate money for the marriages of poor people and undertake their marriage and other
+              expenses
+            </li>
+            <li>To acquire or takeover amalgamations or merge with any other trust having same of similar objects
+            </li>
+            <li>To do all such acts, deeds, things in addition to and in furtherance of the above purposes and in
+              the
+              advancement of any other charitable object of public utility not involving any activity for profit
+            </li>
+            <li>Each of the above purposes of the Trust shall be deemed to be separate and independent object of the
+              trust
+              and will be carried out without any distinction of caste, creed or religion
+            </li>
+          </ol>
+        </div>
+      </div>
+      <div className="row">
+        <h3 className="text-primary text-center">Board and Finance</h3>
+        <div>
+          <p><strong>Advisory Board</strong></p>
+          <ul>
+            <li>Mr. R. Subramanian (Managing Trustee)</li>
+            <li>Mr. S.S. Arunajadesan (Former School Principal)</li>
+            <li>Mr. S. Mahadevan (Auditor)</li>
+          </ul>
+          <p><strong>Financial's</strong></p>
+          <p>Soon to be included</p>
+        </div>
       </div>
     </>
   );
