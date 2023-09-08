@@ -15,11 +15,6 @@ export default function Page() {
     <div>
       <div className="text-center">
         <h2 className='text-primary'>Aathirai Educational And Charitable Trust</h2>
-        <h1>
-          <div>
-            Website under development
-          </div>
-        </h1>
       </div>
       <div className='row'>
         <p>
