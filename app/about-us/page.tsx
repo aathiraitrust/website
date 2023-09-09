@@ -62,8 +62,8 @@ export default function Page() {
         <div>
           <p><strong>Vision</strong></p>
           <p>
-            “Transform the lives of people in India through education, by providing financial assistance and
-            guidance”
+            Transform the lives of people in India through education, by providing financial assistance and
+            guidance
           </p>
           <p><strong>Mission (Our objectives)</strong></p>
           <ol>
@@ -83,9 +83,7 @@ export default function Page() {
               organizations,
               which is running homes for these people
             </li>
-            <li>To provide food, shelter, medical relief, vocational guidance and any other relief /assistance to
-              the poor
-              and downtrodden sections of the society for alleviating their poverty and misery
+            <li>To provide food, shelter, medical relief, vocational guidance and any other relief / assistance to the poor and downtrodden sections of the society for alleviating their poverty and misery
             </li>
             <li>To perform or donate money for the marriages of poor people and undertake their marriage and other
               expenses
@@ -113,7 +111,7 @@ export default function Page() {
             <li>Mr. S. Mahadevan (Auditor)</li>
           </ul>
           <p><strong>Financial's</strong></p>
-          <p>Soon to be included</p>
+          <p>Financial information can be shared upon request</p>
         </div>
       </div>
     </>

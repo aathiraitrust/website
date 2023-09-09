@@ -13,10 +13,10 @@ export function NavigationBar() {
     <div>
       <Navbar expand="lg" className="bg-body-tertiary fixed-top container">
         <Container fluid>
-          <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Brand href="/">
             <img data-testid="website-logo" src="/img/logo/aathirai_logo.png" alt="Aathirai" className='site-logo' />
           </Navbar.Brand>
+          <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav activeKey={pathname} className="ms-auto">
               <Nav.Link data-testid="home-link" href="/">Home</Nav.Link>
