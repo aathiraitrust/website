@@ -1,5 +1,7 @@
 'use client';
 
+import Link from "next/link";
+
 export default function Page() {
   return (
     <>
@@ -50,11 +52,11 @@ export default function Page() {
         </p>
         <p><strong>Events</strong></p>
         <p>
-          We have conducted various events successfully through our Trust, more about events can be found on the <a href="/our-events/">Events Page</a>
+          We have conducted various events successfully through our Trust, more about events can be found on the <Link href="/our-events/">Events Page</Link>
         </p>
         <p><strong>Rising Star Project</strong></p>
         <p>
-          More about Rising Star Project can be found on the <a href="/rising-star-projects/">Rising Star Project</a>
+          More about Rising Star Project can be found on the <Link href="/rising-star-projects/">Rising Star Project</Link>
         </p>
       </div>
       <div className="row">
