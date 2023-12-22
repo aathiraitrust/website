@@ -42,7 +42,8 @@ export default function Page() {
         <h4 className="text-primary text-center">Individuals</h4>
         <div className="container">
           <ul>
-            <li>A. Sreeman Pandi, Aalim Muhammed Salegh Polytechnic College, Nizara Educational Campus, Muthapudupet, Avadi, IAF, Chennai - 600 055</li>
+            <li>M.Lishika, Standard III, EL SHADDAI Nursery & Primary School, Korattur, Chennai</li>
+            <li>A. Sreeman Pandi, Aalim Muhammed Salegh Polytechnic College, Nizara Educational Campus, Muthapudupet, Avadi, IAF, Chennai</li>
             <li>Ritesh, Egmore, Chennai</li>
             <li>R.Kalimuthu, BA Economics (first year, second sem) in The American College, Madurai</li>
             <li>K.Surya BBA degree course at Sree Sastha Arts & Science College, Chembarambakkam</li>

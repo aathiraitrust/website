@@ -41,8 +41,8 @@ export default function Page() {
             <tbody>
               <tr>
                 <td>01-Nov-2023</td>
-                <td>M.Lishika, Standard III, EL SHADDAI Nursery & Primary School</td>
-                <td>Volunteer Mrs.Sowmiya has kindly paid the term fee of Rs. 7200 /- for M.Lishika</td>
+                <td>M.Lishika, Standard III, EL SHADDAI Nursery & Primary School, Korattur, Chennai - 600 076</td>
+                <td>Paid Rs. 7200 /- towards School fee</td>
               </tr>
               <tr>
                 <td>30-Mar-2023</td>
