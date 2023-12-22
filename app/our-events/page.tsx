@@ -40,6 +40,11 @@ export default function Page() {
             </thead>
             <tbody>
               <tr>
+                <td>01-Nov-2023</td>
+                <td>M.Lishika, Standard III, EL SHADDAI Nursery & Primary School</td>
+                <td>Volunteer Mrs.Sowmiya has kindly paid the term fee of Rs. 7200 /- for M.Lishika</td>
+              </tr>
+              <tr>
                 <td>30-Mar-2023</td>
                 <td>Government School, Villivakkam, Chennai</td>
                 <td>Donated School Notice Board to Government School, Villivakkam, Chennai. The cost of Notice Board is Rs. 7500 /-</td>
