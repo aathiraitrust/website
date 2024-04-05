@@ -7,7 +7,7 @@ export default function Page() {
     <>
       <div className="row">
         <h3 className="text-primary text-center">Upcoming Events</h3>
-        <h5 className="text-primary text-center">No upcoming events</h5>
+        {/* <h5 className="text-primary text-center">No upcoming events</h5> */}
         <div className="table-responsive">
           <table className="table table-hover table-bordered table-striped">
             <thead>
@@ -19,9 +19,9 @@ export default function Page() {
             </thead>
             <tbody>
               <tr>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>10-May-2024</td>
+                <td>S A SIDDARTHAN (Standard IV) and S A SUJITHA (Standard VI), Kamaraj Matriculation Hr. Sec. School, Ayanpuram, Chennai-23</td>
+                <td>Raising fund of Rs. 71,182/- towards school annual fees for both children</td>
               </tr>
             </tbody>
           </table>
@@ -39,6 +39,16 @@ export default function Page() {
               </tr>
             </thead>
             <tbody>
+              <tr>
+                <td>14-Mar-2024</td>
+                <td>M.Lishika, Standard IV, EL SHADDAI Nursery & Primary School, Korattur, Chennai - 600 076</td>
+                <td>Paid Rs. 16,400 /- towards first term school fee</td>
+              </tr>
+              <tr>
+                <td>14-Feb-2024</td>
+                <td></td>
+                <td>Paid Rs. 5000 /- towards food distribution on behalf of birthday</td>
+              </tr>
               <tr>
                 <td>01-Nov-2023</td>
                 <td>M.Lishika, Standard III, EL SHADDAI Nursery & Primary School, Korattur, Chennai - 600 076</td>
