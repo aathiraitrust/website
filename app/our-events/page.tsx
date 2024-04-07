@@ -46,7 +46,7 @@ export default function Page() {
               </tr>
               <tr>
                 <td>14-Feb-2024</td>
-                <td></td>
+                <td>CHILD (Home for the Children), No: 647, Kadappa Road, Mathanakuppam, Kolathur, Chennai - 600 099</td>
                 <td>Paid Rs. 5000 /- towards food distribution on behalf of birthday</td>
               </tr>
               <tr>
