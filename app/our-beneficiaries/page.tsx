@@ -8,6 +8,7 @@ export default function Page() {
         <h4 className="text-primary text-center">Care Homes/Schools/Community</h4>
         <div className="container">
           <ul>
+            <li>CHILD (Home for the Children), No: 647, Kadappa Road, Mathanakuppam, Kolathur, Chennai - 600 099</li>
             <li>Families near Pattaravakkam, Karukku, Menampedu, Sidco Nagar - Villivakkam, Nammalwarpet, Chennai</li>
             <li>Families near Erikkarai, Surakuppam, Agraharam- Srinivasapuram around Korattur, Chennai</li>
             <li>Families near Ayanavaram, Chennai</li>
@@ -42,7 +43,8 @@ export default function Page() {
         <h4 className="text-primary text-center">Individuals</h4>
         <div className="container">
           <ul>
-            <li>M.Lishika, Standard III, EL SHADDAI Nursery & Primary School, Korattur, Chennai</li>
+            <li>S A Siddarthan (Standard IV) and S A Sujitha (Standard VI), Kamaraj Matriculation Hr. Sec. School, Ayanpuram, Chennai-23</li>
+            <li>M.Lishika, EL SHADDAI Nursery & Primary School, Korattur, Chennai</li>
             <li>A. Sreeman Pandi, Aalim Muhammed Salegh Polytechnic College, Nizara Educational Campus, Muthapudupet, Avadi, IAF, Chennai</li>
             <li>Ritesh, Egmore, Chennai</li>
             <li>R.Kalimuthu, BA Economics (first year, second sem) in The American College, Madurai</li>

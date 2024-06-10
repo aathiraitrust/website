@@ -19,9 +19,9 @@ export default function Page() {
             </thead>
             <tbody>
               <tr>
-                <td>10-May-2024</td>
-                <td>S A SIDDARTHAN (Standard IV) and S A SUJITHA (Standard VI), Kamaraj Matriculation Hr. Sec. School, Ayanpuram, Chennai-23</td>
-                <td>Raising fund of Rs. 71,182/- towards school annual fees for both children</td>
+                <td></td>
+                <td></td>
+                <td></td>
               </tr>
             </tbody>
           </table>
@@ -40,6 +40,16 @@ export default function Page() {
             </thead>
             <tbody>
               <tr>
+                <td>09-May-2024</td>
+                <td>CHILD (Home for the Children), No: 647, Kadappa Road, Mathanakuppam, Kolathur, Chennai - 600 099</td>
+                <td>Paid Rs. 10,000 /- towards food distribution on behalf of pooja ceremony by a volunteer</td>
+              </tr>
+              <tr>
+                <td>06-May-2024</td>
+                <td>S A Siddharthan (Standard IV) and S A Sujitha (Standard VI), Kamaraj Matriculation Hr. Sec. School, Ayanpuram, Chennai-23</td>
+                <td>Paid Rs. 71,000/- towards school annual fees for both children</td>
+              </tr>
+              <tr>
                 <td>14-Mar-2024</td>
                 <td>M.Lishika, Standard IV, EL SHADDAI Nursery & Primary School, Korattur, Chennai - 600 076</td>
                 <td>Paid Rs. 16,400 /- towards first term school fee</td>
@@ -47,7 +57,7 @@ export default function Page() {
               <tr>
                 <td>14-Feb-2024</td>
                 <td>CHILD (Home for the Children), No: 647, Kadappa Road, Mathanakuppam, Kolathur, Chennai - 600 099</td>
-                <td>Paid Rs. 5000 /- towards food distribution on behalf of birthday</td>
+                <td>Paid Rs. 5000 /- towards food distribution on behalf of birthday celebration by a volunteer</td>
               </tr>
               <tr>
                 <td>01-Nov-2023</td>

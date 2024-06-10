@@ -16,6 +16,42 @@ export default function Page() {
             </thead>
             <tbody>
               <tr>
+                <td>05-MAR-2024</td>
+                <td>
+                  M.Lishika, Standard IV, EL SHADDAI Nursery & Primary School, Korattur, Chennai - 600 076
+                </td>
+                <td>
+                  School evening tution fee of Rs. 500 /-
+                </td>
+              </tr>
+              <tr>
+                <td>05-FEB-2024</td>
+                <td>
+                  M.Lishika, Standard IV, EL SHADDAI Nursery & Primary School, Korattur, Chennai - 600 076
+                </td>
+                <td>
+                  School evening tution fee of Rs. 500 /-
+                </td>
+              </tr>
+              <tr>
+                <td>05-JAN-2024</td>
+                <td>
+                  M.Lishika, Standard IV, EL SHADDAI Nursery & Primary School, Korattur, Chennai - 600 076
+                </td>
+                <td>
+                  School evening tution fee of Rs. 500 /-
+                </td>
+              </tr>
+              <tr>
+                <td>01-DEC-2023</td>
+                <td>
+                  M.Lishika, Standard IV, EL SHADDAI Nursery & Primary School, Korattur, Chennai - 600 076
+                </td>
+                <td>
+                  School evening tution fee of Rs. 500 /-
+                </td>
+              </tr>
+              <tr>
                 <td>21-MAR-2020</td>
                 <td>
                   Government School, Villivakkam, Chennai
