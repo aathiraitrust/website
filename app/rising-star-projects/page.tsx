@@ -21,7 +21,7 @@ export default function Page() {
                   M.Lishika, Standard IV, EL SHADDAI Nursery & Primary School, Korattur, Chennai - 600 076
                 </td>
                 <td>
-                  School evening tution fee of Rs. 500 /-
+                  School evening tution fee of &#8377; 500 /-
                 </td>
               </tr>
               <tr>
@@ -30,7 +30,7 @@ export default function Page() {
                   M.Lishika, Standard IV, EL SHADDAI Nursery & Primary School, Korattur, Chennai - 600 076
                 </td>
                 <td>
-                  School evening tution fee of Rs. 500 /-
+                  School evening tution fee of &#8377; 500 /-
                 </td>
               </tr>
               <tr>
@@ -39,7 +39,7 @@ export default function Page() {
                   M.Lishika, Standard IV, EL SHADDAI Nursery & Primary School, Korattur, Chennai - 600 076
                 </td>
                 <td>
-                  School evening tution fee of Rs. 500 /-
+                  School evening tution fee of &#8377; 500 /-
                 </td>
               </tr>
               <tr>
@@ -48,7 +48,7 @@ export default function Page() {
                   M.Lishika, Standard IV, EL SHADDAI Nursery & Primary School, Korattur, Chennai - 600 076
                 </td>
                 <td>
-                  School evening tution fee of Rs. 500 /-
+                  School evening tution fee of &#8377; 500 /-
                 </td>
               </tr>
               <tr>
@@ -57,7 +57,7 @@ export default function Page() {
                   Government School, Villivakkam, Chennai
                 </td>
                 <td>
-                  Special tuition tutor fee of Rs. 7500/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade
+                  Special tuition tutor fee of &#8377; 7500/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade
                 </td>
               </tr>
               <tr>
@@ -66,7 +66,7 @@ export default function Page() {
                   Government School, Villivakkam, Chennai
                 </td>
                 <td>
-                  Special tuition tutor fee of Rs. 3500/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade
+                  Special tuition tutor fee of &#8377; 3500/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade
                 </td>
               </tr>
               <tr>
@@ -75,7 +75,7 @@ export default function Page() {
                   Government School, Villivakkam, Chennai
                 </td>
                 <td>
-                  Special tuition tutor fee of Rs. 4000/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade
+                  Special tuition tutor fee of &#8377; 4000/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade
                 </td>
               </tr>
               <tr>
@@ -84,7 +84,7 @@ export default function Page() {
                   Government School, Villivakkam, Chennai
                 </td>
                 <td>
-                  Special tuition tutor fee of Rs. 2500/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade
+                  Special tuition tutor fee of &#8377; 2500/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade
                 </td>
               </tr>
               <tr>
@@ -93,7 +93,7 @@ export default function Page() {
                   Government School, Villivakkam, Chennai
                 </td>
                 <td>
-                  Special tuition tutor fee of Rs. 5000/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade
+                  Special tuition tutor fee of &#8377; 5000/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade
                 </td>
               </tr>
               <tr>
@@ -102,7 +102,7 @@ export default function Page() {
                   Government School, Villivakkam, Chennai
                 </td>
                 <td>
-                  Special tuition tutor fee of Rs. 4000/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade
+                  Special tuition tutor fee of &#8377; 4000/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade
                 </td>
               </tr>
               <tr>
@@ -111,7 +111,7 @@ export default function Page() {
                   Government School, Villivakkam, Chennai
                 </td>
                 <td>
-                  Special tuition tutor fee of Rs. 3500/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade
+                  Special tuition tutor fee of &#8377; 3500/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade
                 </td>
               </tr>
               <tr>
@@ -120,7 +120,7 @@ export default function Page() {
                   Government School, Villivakkam, Chennai
                 </td>
                 <td>
-                  Special tuition tutor fee of Rs. 2500/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade
+                  Special tuition tutor fee of &#8377; 2500/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade
                 </td>
               </tr>
               <tr>
@@ -129,7 +129,7 @@ export default function Page() {
                   Government School, Villivakkam, Chennai
                 </td>
                 <td>
-                  Special tuition tutor fee of Rs. 2500/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade
+                  Special tuition tutor fee of &#8377; 2500/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade
                 </td>
               </tr>
               <tr>
@@ -138,7 +138,7 @@ export default function Page() {
                   Government School, Villivakkam, Chennai
                 </td>
                 <td>
-                  Special tuition tutor fee of Rs. 2500/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade
+                  Special tuition tutor fee of &#8377; 2500/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade
                 </td>
               </tr>
               <tr>
@@ -147,7 +147,7 @@ export default function Page() {
                   Government School, Villivakkam, Chennai
                 </td>
                 <td>
-                  Special tuition tutor fee of Rs. 2500/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade
+                  Special tuition tutor fee of &#8377; 2500/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade
                 </td>
               </tr>
               <tr>
@@ -156,7 +156,7 @@ export default function Page() {
                   Government School, Villivakkam, Chennai
                 </td>
                 <td>
-                  Special tuition tutor fee of Rs. 2500/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade
+                  Special tuition tutor fee of &#8377; 2500/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade
                 </td>
               </tr>
               <tr>
@@ -165,7 +165,7 @@ export default function Page() {
                   Government School, Villivakkam, Chennai
                 </td>
                 <td>
-                  Special tuition tutor fee of Rs. 2500/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade.
+                  Special tuition tutor fee of &#8377; 2500/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade.
                   <br />Distributed geometry boxes and note books <br />to 10th grade students towards encouraging them <br />for public exams.
                   <br />In addition to that, our trust members <br />(Mr. Subramanian, Mr. Lokesh Kumar, Mr.Gowrishankar) had <br />volunteered to take special classes for 10th <br />grade students on weekends for their exams
                 </td>
@@ -176,7 +176,7 @@ export default function Page() {
                   Government School, Villivakkam, Chennai
                 </td>
                 <td>
-                  Special tuition tutor fee of Rs. 2500/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade
+                  Special tuition tutor fee of &#8377; 2500/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade
                 </td>
               </tr>
               <tr>
@@ -185,7 +185,7 @@ export default function Page() {
                   Government School, Villivakkam, Chennai
                 </td>
                 <td>
-                  Special tuition tutor fee of Rs. 2500/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade
+                  Special tuition tutor fee of &#8377; 2500/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade
                 </td>
               </tr>
               <tr>
@@ -194,7 +194,7 @@ export default function Page() {
                   Government School, Villivakkam, Chennai
                 </td>
                 <td>
-                  Special tuition tutor fee of Rs. 2500/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade
+                  Special tuition tutor fee of &#8377; 2500/- <br />paid to Senthil Kumar for extra coaching <br />classes for 10th grade
                 </td>
               </tr>
               <tr>
@@ -205,7 +205,7 @@ export default function Page() {
                 <td>
                   Motivated 6th to 10th standard students by distributing complementary gifts and
                   <br />
-                  Special tuition tutor fee of Rs. 2500/- paid to Senthil Kumar for extra coaching classes for 10th grade
+                  Special tuition tutor fee of &#8377; 2500/- paid to Senthil Kumar for extra coaching classes for 10th grade
                 </td>
               </tr>
               <tr>

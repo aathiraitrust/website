@@ -19,9 +19,9 @@ export default function Page() {
             </thead>
             <tbody>
               <tr>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>27-Mar-2025</td>
+                <td>Annual day celebration at Ponneri Union Primary School, Ponneri South</td>
+                <td>Estimated fund to be raised &#8377;9300/- for providing lunch boxes and snacks for 150 students</td>
               </tr>
             </tbody>
           </table>
@@ -39,144 +39,159 @@ export default function Page() {
               </tr>
             </thead>
             <tbody>
+            <tr>
+                <td>10-Mar-2025</td>
+                <td>M.Lishika, Standard V, EL SHADDAI Nursery & Primary School, Korattur, Chennai - 600 076</td>
+                <td>Paid &#8377;16,800 /- towards first term school fee</td>
+              </tr>
+              <tr>
+                <td>20-Feb-2025</td>
+                <td>CHILD (Home for the Children), No: 647, Kadappa Road, Mathanakuppam, Kolathur, Chennai - 600 099</td>
+                <td>Paid &#8377;5000 /- towards food distribution on behalf of birthday celebration by a volunteer</td>
+              </tr>
+              <tr>
+                <td>25-Jan-2025</td>
+                <td>CHILD (Home for the Children), No: 647, Kadappa Road, Mathanakuppam, Kolathur, Chennai - 600 099</td>
+                <td>Paid &#8377;5000 /- towards food distribution on behalf of anniversary celebration by a volunteer</td>
+              </tr>
               <tr>
                 <td>09-May-2024</td>
                 <td>CHILD (Home for the Children), No: 647, Kadappa Road, Mathanakuppam, Kolathur, Chennai - 600 099</td>
-                <td>Paid Rs. 10,000 /- towards food distribution on behalf of pooja ceremony by a volunteer</td>
+                <td>Paid &#8377;10,000 /- towards food distribution on behalf of pooja ceremony by a volunteer</td>
               </tr>
               <tr>
                 <td>06-May-2024</td>
                 <td>S A Siddharthan (Standard IV) and S A Sujitha (Standard VI), Kamaraj Matriculation Hr. Sec. School, Ayanpuram, Chennai-23</td>
-                <td>Paid Rs. 71,000/- towards school annual fees for both children</td>
+                <td>Paid &#8377;71,000/- towards school annual fees for both children</td>
               </tr>
               <tr>
                 <td>14-Mar-2024</td>
                 <td>M.Lishika, Standard IV, EL SHADDAI Nursery & Primary School, Korattur, Chennai - 600 076</td>
-                <td>Paid Rs. 16,400 /- towards first term school fee</td>
+                <td>Paid &#8377;16,400 /- towards first term school fee</td>
               </tr>
               <tr>
                 <td>14-Feb-2024</td>
                 <td>CHILD (Home for the Children), No: 647, Kadappa Road, Mathanakuppam, Kolathur, Chennai - 600 099</td>
-                <td>Paid Rs. 5000 /- towards food distribution on behalf of birthday celebration by a volunteer</td>
+                <td>Paid &#8377;5000 /- towards food distribution on behalf of birthday celebration by a volunteer</td>
               </tr>
               <tr>
                 <td>01-Nov-2023</td>
                 <td>M.Lishika, Standard III, EL SHADDAI Nursery & Primary School, Korattur, Chennai - 600 076</td>
-                <td>Paid Rs. 7200 /- towards School fee</td>
+                <td>Paid &#8377;7200 /- towards School fee</td>
               </tr>
               <tr>
                 <td>30-Mar-2023</td>
                 <td>Government School, Villivakkam, Chennai</td>
-                <td>Donated School Notice Board to Government School, Villivakkam, Chennai. The cost of Notice Board is Rs. 7500 /-</td>
+                <td>Donated School Notice Board to Government School, Villivakkam, Chennai. The cost of Notice Board is &#8377;7500 /-</td>
               </tr>
               <tr>
                 <td>29-Mar-2023</td>
                 <td>A. Sreeman Pandi, (Fourth year) Engineering in Aalim Muhammed Salegh Polytechnic College, Nizara Educational Campus, Muthapudupet, Avadi, IAF, Chennai - 600 055</td>
-                <td>Paid Rs. 5,000 /- towards College fee</td>
+                <td>Paid &#8377;5,000 /- towards College fee</td>
               </tr>
               <tr>
                 <td>29-Mar-2023</td>
                 <td>A. Sreeman Pandi</td>
-                <td>Paid Rs. 22,015 /- towards CAD fee</td>
+                <td>Paid &#8377;22,015 /- towards CAD fee</td>
               </tr>
               <tr>
                 <td>31-Dec-2022</td>
                 <td>Ritesh, Egmore, Chennai</td>
-                <td>Donated Standing Frame for Ritesh. The cost of Standing Frame is around Rs. 12548 /-</td>
+                <td>Donated Standing Frame for Ritesh. The cost of Standing Frame is around &#8377;12548 /-</td>
               </tr>
               <tr>
                 <td>06-Jun-2023</td>
                 <td>A. Sreeman Pandi, (Third year) Engineering in Aalim Muhammed Salegh Polytechnic College, Nizara Educational Campus, Muthapudupet, Avadi, IAF, Chennai - 600 055</td>
-                <td>Paid Rs. 5,000 /- towards College fee</td>
+                <td>Paid &#8377;5,000 /- towards College fee</td>
               </tr>
               <tr>
                 <td>29-Mar-2022</td>
                 <td>A. Sreeman Pandi, (Third year) Engineering in Aalim Muhammed Salegh Polytechnic College, Nizara Educational Campus, Muthapudupet, Avadi, IAF, Chennai - 600 055</td>
-                <td>Paid Rs. 5,000 /- towards college fee</td>
+                <td>Paid &#8377;5,000 /- towards college fee</td>
               </tr>
               <tr>
                 <td>01-Oct-2021</td>
                 <td>A. Sreeman Pandi, (Third year) Engineering in Aalim Muhammed Salegh Polytechnic College, Nizara Educational Campus, Muthapudupet, Avadi, IAF, Chennai - 600 055</td>
-                <td>Paid Rs. 10,000 /- towards third year fee. Total fee for third year is Rs. 35,000 /- out of that Government Scholarship is Rs. 25,000 /-</td>
+                <td>Paid &#8377;10,000 /- towards third year fee. Total fee for third year is &#8377;35,000 /- out of that Government Scholarship is &#8377;25,000 /-</td>
               </tr>
               <tr>
                 <td>16-Jul-2021</td>
                 <td>R.Kalimuthu, BA Economics (first year, second sem) in The American College at Madurai</td>
-                <td>Paid college fee of Rs.8,534/- for R.Kalimuthu</td>
+                <td>Paid college fee of &#8377;8,534/- for R.Kalimuthu</td>
               </tr>
               <tr>
                 <td>11-Jan-2021</td>
                 <td>A. Sreeman Pandi, (Second year) Engineering in Aalim Muhammed Salegh Polytechnic College, Nizara Educational Campus, Muthapudupet, Avadi, IAF, Chennai - 600 055</td>
-                <td>Paid balance fee of Rs. 9,500/- for engineering on 11-Jan-2021. Paid old diploma due fee of Rs. 5,000/- on 06-Feb-2021</td>
+                <td>Paid balance fee of &#8377;9,500/- for engineering on 11-Jan-2021. Paid old diploma due fee of &#8377;5,000/- on 06-Feb-2021</td>
               </tr>
               <tr>
                 <td>18-Dec-2020</td>
                 <td>K.Surya, (Second year) BBA degree course at Sree Sastha Arts & Science College, Chembarambakkam</td>
-                <td>Paid college fee of Rs. 35000/- for K.Surya</td>
+                <td>Paid college fee of &#8377;35000/- for K.Surya</td>
               </tr>
               <tr>
                 <td>23-May-2020</td>
                 <td>Families affected by COVID-19 lockdown (Phase - III)</td>
-                <td>As part of COVID-19 Relief Activity- Phase 111, we had distributed essential groceries kit for 80 families living in Pattaravakkam, Karukku, Menampedu, Sidconagar- Villivakkam, Nammalwarpet- Chennai during 23-May-2020 & 24-May-2020. Total cost for this event was Rs. 36,240 /- (including package and transportation costs)</td>
+                <td>As part of COVID-19 Relief Activity- Phase 111, we had distributed essential groceries kit for 80 families living in Pattaravakkam, Karukku, Menampedu, Sidconagar- Villivakkam, Nammalwarpet- Chennai during 23-May-2020 & 24-May-2020. Total cost for this event was &#8377;36,240 /- (including package and transportation costs)</td>
               </tr>
               <tr>
                 <td>14-May-2020</td>
                 <td>Families affected by COVID-19 lockdown (Phase - II)</td>
-                <td>As part of COVID-19 Relief Activity- Phase 11, we had distributed essential groceries kit for 50 families living near erikkarai, surakuppam, agraharam-srinivasapuram around korattur, chennai.Total cost for this event was Rs. 25,569 /- (excluding transportation costs)</td>
+                <td>As part of COVID-19 Relief Activity- Phase 11, we had distributed essential groceries kit for 50 families living near erikkarai, surakuppam, agraharam-srinivasapuram around korattur, chennai.Total cost for this event was &#8377;25,569 /- (excluding transportation costs)</td>
               </tr>
               <tr>
                 <td>12-May-2020</td>
                 <td>Families affected by COVID-19 lockdown (Phase - I)</td>
-                <td>As part of COVID-19 Relief Activity- Phase 1, we had distributed essential groceries kit costing Rs. 540/- per kit for 50 families living in Ayanavaram, Chennai. Total cost for this event was Rs. 29,714 /- (excluding package and transportation costs)</td>
+                <td>As part of COVID-19 Relief Activity- Phase 1, we had distributed essential groceries kit costing &#8377;540/- per kit for 50 families living in Ayanavaram, Chennai. Total cost for this event was &#8377;29,714 /- (excluding package and transportation costs)</td>
               </tr>
               <tr>
                 <td>16-Aug-2019</td>
                 <td>Lourthu Sahaya Mary A, B.Ed., St.Xavier's College of Education, Palayamkottai</td>
-                <td>Paid partial college fees of Rs.22,500/- for Lourth Sahaya Mary A</td>
+                <td>Paid partial college fees of &#8377;22,500/- for Lourth Sahaya Mary A</td>
               </tr>
               <tr>
                 <td>13-May-2019</td>
                 <td>Educational Assistance Day, Erikarai, Korattur, Chennai</td>
-                <td>Organised educational assistance day and distributed lunch bags, tiffin boxes and pen sets amounted to a total of Rs. 4980 /- to 20 students</td>
+                <td>Organised educational assistance day and distributed lunch bags, tiffin boxes and pen sets amounted to a total of &#8377;4980 /- to 20 students</td>
               </tr>
               <tr>
                 <td>08-Mar-2019</td>
                 <td>Government School, Kavalpatti</td>
                 <td>
-                  Provided educational needs (study table and plastic chairs) worth Rs.20400 /- to Government School, Kavalpatti
+                  Provided educational needs (study table and plastic chairs) worth &#8377;20400 /- to Government School, Kavalpatti
                 </td>
               </tr>
               <tr>
                 <td>12-Jan-2019</td>
                 <td>Anganwadi Mayyam Government Nursery School, Kavarapettai</td>
                 <td>
-                  Distributed school uniforms worth Rs. 5978 /- to 22 pupils of Anganwadi Mayyam Government Nursery School
+                  Distributed school uniforms worth &#8377;5978 /- to 22 pupils of Anganwadi Mayyam Government Nursery School
                 </td>
               </tr>
               <tr>
                 <td>24-Nov-2018</td>
                 <td>Residents of Magillan Kottai village near Pattukottai</td>
-                <td>Raised Rs.61600/- through donors and conducted emergency relief activity in a village affected by GAJA cyclone. We provided essential groceries and household needs for up to 150 families living in Magillan Kottai village near Pattukottai</td>
+                <td>Raised &#8377;61600/- through donors and conducted emergency relief activity in a village affected by GAJA cyclone. We provided essential groceries and household needs for up to 150 families living in Magillan Kottai village near Pattukottai</td>
               </tr>
               <tr>
                 <td>19-Oct-2018</td>
                 <td>Annai Bharatha Matha Educational and Charitable Trust, Redhills, Chennai</td>
-                <td>Provided food donation to the home for the cost of Rs. 3500/-</td>
+                <td>Provided food donation to the home for the cost of &#8377;3500/-</td>
               </tr>
               <tr>
                 <td>06-Oct-2018</td>
                 <td>Kalaiselvi Karunalaya Social Welfare Society, Mogappair West, Chennai</td>
-                <td>Provided food donation for the cost of Rs.5500/- to the home and engaged the kids with some fun activities</td>
+                <td>Provided food donation for the cost of &#8377;5500/- to the home and engaged the kids with some fun activities</td>
               </tr>
               <tr>
                 <td>19-Sep-2018</td>
                 <td>Lourthu Sahaya Mary A, B.Ed., St.Xavier's College of Education, Palayamkottai</td>
-                <td>Paid partial college fees of Rs.17,500/- for Lourth Sahaya Mary A</td>
+                <td>Paid partial college fees of &#8377;17,500/- for Lourth Sahaya Mary A</td>
               </tr>
               <tr>
                 <td>31-Aug-2018</td>
                 <td>Dhivya Nawin Santh P S, Kanyakumari Government Medical College, Asaripallam</td>
-                <td>Paid book and bonafide fee of Rs.10,990/- for Dhivya Nawin Santh P S</td>
+                <td>Paid book and bonafide fee of &#8377;10,990/- for Dhivya Nawin Santh P S</td>
               </tr>
               <tr>
                 <td>15-Aug-2018</td>
@@ -187,27 +202,27 @@ export default function Page() {
                     <li>Government Primary School, Kavalpatti Village</li>
                   </ol>
                 </td>
-                <td>Conducted a well organised event on Independence day at the mentioned government schools (Asanabudur school strength - 30, Panapakkam school - 51, Kavalpatti school strength - 14)and distributed various list of requirements like school uniform, sports goods, shoes, notebooks, stationary and a locker for the total cost of Rs. 40,655/-</td>
+                <td>Conducted a well organised event on Independence day at the mentioned government schools (Asanabudur school strength - 30, Panapakkam school - 51, Kavalpatti school strength - 14)and distributed various list of requirements like school uniform, sports goods, shoes, notebooks, stationary and a locker for the total cost of &#8377;40,655/-</td>
               </tr>
               <tr>
                 <td>15-AUG-2018</td>
                 <td>Brindha Devi D/O Vishali, Taramani, Chennai</td>
-                <td>Provided uniform material with stitching cost of Rs.1434/- to Brindha</td>
+                <td>Provided uniform material with stitching cost of &#8377;1434/- to Brindha</td>
               </tr>
               <tr>
                 <td>12-AUG-2018</td>
                 <td>Annai Bharatha Matha Educational and Charitable Trust, Redhills, Chennai</td>
-                <td>Provided food donation for the cost of Rs.7400/-  to the home and engaged kids with some fun activities</td>
+                <td>Provided food donation for the cost of &#8377;7400/-  to the home and engaged kids with some fun activities</td>
               </tr>
               <tr>
                 <td>31-JUL-2018</td>
                 <td>Government School, Villivakkam, Chennai</td>
-                <td>Paid Rs.4456/- for electrical repair work for the school computer room</td>
+                <td>Paid &#8377;4456/- for electrical repair work for the school computer room</td>
               </tr>
               <tr>
                 <td>17-JUL-2018</td>
                 <td>A.Sreeman Pandi, Diploma in Auto mobile Engineering, Aalim Muhammed  Polytechnic College, Nizara Educational Campus, Muthapudupet, Avadi, IAF, Chennai</td>
-                <td>Paid college fees of Rs.16,500/- for A. Sreeman Pandi</td>
+                <td>Paid college fees of &#8377;16,500/- for A. Sreeman Pandi</td>
               </tr>
               <tr>
                 <td>13-JUN-2018</td>
@@ -220,7 +235,7 @@ export default function Page() {
                   Saranalaya Children Home, Kovur, Chennai
                 </td>
                 <td>
-                  Provided lunch for 60 children of Rs. 5500/-
+                  Provided lunch for 60 children of &#8377;5500/-
                 </td>
               </tr>
               <tr>
@@ -229,7 +244,7 @@ export default function Page() {
                   Saranalaya Children Home, Kovur, Chennai
                 </td>
                 <td>
-                  Provided sports goods of Rs.5509/- for 60 children
+                  Provided sports goods of &#8377;5509/- for 60 children
                 </td>
               </tr>
               <tr>
@@ -247,10 +262,10 @@ export default function Page() {
                 <td>
                   <ol>
                     <li>
-                      Paid school fees of Rs. 1100/- for C.Monika
+                      Paid school fees of &#8377;1100/- for C.Monika
                     </li>
                     <li>
-                      Paid school fees of Rs. 1100/- for C.Yuvashree
+                      Paid school fees of &#8377;1100/- for C.Yuvashree
                     </li>
                   </ol>
                 </td>
@@ -261,7 +276,7 @@ export default function Page() {
                   V.Nithya, B.Sc Computer Science, Ponnusamy Nadar College of Arts and Science, Thiruvallur
                 </td>
                 <td>
-                  Paid college fees of Rs.10,000/-
+                  Paid college fees of &#8377;10,000/-
                 </td>
               </tr>
               <tr>
@@ -270,7 +285,7 @@ export default function Page() {
                   R.Manjupriya, B.Com, Srinivasa Academy
                 </td>
                 <td>
-                  Paid tuition fees for CA inter exam of Rs.6,250/- for R.Manjupriya
+                  Paid tuition fees for CA inter exam of &#8377;6,250/- for R.Manjupriya
                 </td>
               </tr>
               <tr>
@@ -279,7 +294,7 @@ export default function Page() {
                   R. Bhuvaneshwari, B.Com, Bhakthavatsalam Memorial College for Women, Chennai
                 </td>
                 <td>
-                  Paid college fees of Rs.13,950/- for R. Bhuvaneshwari
+                  Paid college fees of &#8377;13,950/- for R. Bhuvaneshwari
                 </td>
               </tr>
               <tr>
@@ -288,7 +303,7 @@ export default function Page() {
                   V.Nithya, B.Sc Computer Science, Ponnusamy Nadar College of Arts and Science, Thiruvallur
                 </td>
                 <td>
-                  Paid college fees of Rs.10,000/- for V. Nithya
+                  Paid college fees of &#8377;10,000/- for V. Nithya
                 </td>
               </tr>
               <tr>
@@ -297,7 +312,7 @@ export default function Page() {
                   S.Ajith, B.Com, Meenakshi Ramasamy Arts and Science College, Thanthanur, Udayarpalayam, Ariyalur District, Tamil Nadu
                 </td>
                 <td>
-                  Paid college fees of Rs. 12,000/- for S.Ajith
+                  Paid college fees of &#8377;12,000/- for S.Ajith
                 </td>
               </tr>
               <tr>
@@ -316,7 +331,7 @@ export default function Page() {
                   <br />Ponnusamy Nadar College of Arts and Science, Tiruvallur
                 </td>
                 <td>
-                  Paid college fees of Rs. 12,000/-
+                  Paid college fees of &#8377;12,000/-
                 </td>
               </tr>
               <tr>
@@ -334,7 +349,7 @@ export default function Page() {
                   Government School, Villivakkam, Chennai
                 </td>
                 <td>
-                  Contributed funds to renovate school desk, <br />benches and for painting Rs. 10,343/- <br />which includes Material cost and labour charge.
+                  Contributed funds to renovate school desk, <br />benches and for painting &#8377;10,343/- <br />which includes Material cost and labour charge.
                 </td>
               </tr>
               <tr>
@@ -358,9 +373,9 @@ export default function Page() {
                 </td>
                 <td>
                   <ol>
-                    <li>Paid college fees of Rs. 12,000/- for B Swathi</li>
-                    <li>Paid school fees of Rs. 14,500/- for A Monukshvi Aasi</li>
-                    <li>Paid school fees of Rs. 15,500/- for A Vimosh Aasi</li>
+                    <li>Paid college fees of &#8377;12,000/- for B Swathi</li>
+                    <li>Paid school fees of &#8377;14,500/- for A Monukshvi Aasi</li>
+                    <li>Paid school fees of &#8377;15,500/- for A Vimosh Aasi</li>
                   </ol>
                 </td>
               </tr>
@@ -389,7 +404,7 @@ export default function Page() {
                   B.Swathi, B.Com, <br />Bakthavatchalam College for Women, Korattur, Chennai
                 </td>
                 <td>
-                  Paid college fees of Rs. 8,000/-
+                  Paid college fees of &#8377;8,000/-
                 </td>
               </tr>
               <tr>
@@ -398,7 +413,7 @@ export default function Page() {
                   B.Swathi, B.Com, <br />Bakthavatchalam College for Women, Korattur, Chennai
                 </td>
                 <td>
-                  Paid college fees of Rs. 10,750/-
+                  Paid college fees of &#8377;10,750/-
                 </td>
               </tr>
               <tr>
@@ -407,7 +422,7 @@ export default function Page() {
                   B.Swathi, B.Com, <br />Bakthavatchalam College for Women, Korattur, Chennai
                 </td>
                 <td>
-                  Paid college fees of Rs. 8,000/-
+                  Paid college fees of &#8377;8,000/-
                 </td>
               </tr>
               <tr>
@@ -425,7 +440,7 @@ export default function Page() {
                   N.Elakiya, BBA, <br />SriRam College of Arts and Science, Thiruvallur District
                 </td>
                 <td>
-                  Paid college fee of Rs. 5,500/-
+                  Paid college fee of &#8377;5,500/-
                 </td>
               </tr>
               <tr>
@@ -479,7 +494,7 @@ export default function Page() {
                   V. Senthilkumar, B.Tech, <br />Industrial Bio Technology, Government College of Technology, Coimbatore
                 </td>
                 <td>
-                  Paid college fees of Rs. 4345/-
+                  Paid college fees of &#8377;4345/-
                 </td>
               </tr>
               <tr>
@@ -488,7 +503,7 @@ export default function Page() {
                   T.J. Sreelakshmi, IX Std, <br />Unity Matriculation School, Ponneri
                 </td>
                 <td>
-                  Paid school fees of Rs. 10,000/-
+                  Paid school fees of &#8377;10,000/-
                 </td>
               </tr>
               <tr>
@@ -567,8 +582,8 @@ export default function Page() {
                 </td>
                 <td>
                   <ol>
-                    <li>Paid college fees of Rs. 2,935/- for Nandhini</li>
-                    <li>Paid school fees of Rs. 3,725/- for Shivaranjini </li>
+                    <li>Paid college fees of &#8377;2,935/- for Nandhini</li>
+                    <li>Paid school fees of &#8377;3,725/- for Shivaranjini </li>
                   </ol>
                 </td>
               </tr>
