@@ -24,6 +24,7 @@ export function NavigationBar() {
             <Nav activeKey={pathname} className="ms-auto">
               <Nav.Link as={Link} passHref data-testid="home-link" href="/">Home</Nav.Link>
               <Nav.Link as={Link} passHref data-testid="about-us-link" href="/about-us/">About Us</Nav.Link>
+              <Nav.Link as={Link} passHref data-testid="gallery-link" href="/gallery/">Gallery</Nav.Link>
               <Nav.Link as={Link} passHref data-testid="our-beneficiaries-link" href="/our-beneficiaries/">Our Beneficiaries</Nav.Link>
               <Nav.Link as={Link} passHref data-testid="our-events-link" href="/our-events/">Our Events</Nav.Link>
               <Nav.Link as={Link} passHref data-testid="rising-star-projects-link" href="/rising-star-projects/">Rising Star Projects</Nav.Link>

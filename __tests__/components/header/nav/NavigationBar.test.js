@@ -27,6 +27,7 @@ describe('NavigationBar', () => {
     it.each([
         ["/", "home-link"],
         ["/about-us/", "about-us-link"],
+        ["/gallery/", "gallery-link"],
         ["/our-beneficiaries/", "our-beneficiaries-link"],
         ["/our-events/", "our-events-link"],
         ["/rising-star-projects/", "rising-star-projects-link"],
