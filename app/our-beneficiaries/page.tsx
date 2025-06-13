@@ -43,6 +43,7 @@ export default function Page() {
         <h4 className="text-primary text-center">Individuals</h4>
         <div className="container">
           <ul>
+            <li>Atchaya D (Standard XI) and Sanjay D (Standard VII), Sathya Matriculation Higher Secondary School, Purasaiwalkam, Chennai-07</li>
             <li>S A Siddarthan (Standard IV) and S A Sujitha (Standard VI), Kamaraj Matriculation Hr. Sec. School, Ayanpuram, Chennai-23</li>
             <li>M.Lishika, EL SHADDAI Nursery & Primary School, Korattur, Chennai</li>
             <li>A. Sreeman Pandi, Aalim Muhammed Salegh Polytechnic College, Nizara Educational Campus, Muthapudupet, Avadi, IAF, Chennai</li>
