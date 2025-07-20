@@ -1,7 +1,5 @@
 'use client';
 
-import Table from 'react-bootstrap/Table';
-
 export default function Page() {
   return (
     <>
@@ -19,9 +17,9 @@ export default function Page() {
             </thead>
             <tbody>
               <tr>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>20-Aug-2025</td>
+                <td>Atchaya D (Standard XI) and Sanjay D (Standard VII), Sathya Matriculation Higher Secondary School, Purasaiwalkam, Chennai - 600 007</td>
+                <td>Collecting &#8377;51,000/- for two terms (2 & 3) school fee for both children</td>
               </tr>
             </tbody>
           </table>
@@ -42,22 +40,22 @@ export default function Page() {
               <tr>
                 <td>12-Jun-2025</td>
                 <td>Atchaya D (Standard XI) and Sanjay D (Standard VII), Sathya Matriculation Higher Secondary School, Purasaiwalkam, Chennai - 600 007</td>
-                <td>Paid &#8377;39200/- for first term school fee including books and uniform for both children</td>
+                <td>Paid &#8377;39,200/- for first term school fee including books and uniform for both children</td>
               </tr>
               <tr>
                 <td>05-Jun-2025</td>
                 <td>CHILD (Home for the Children), No: 647, Kadappa Road, Mathanakuppam, Kolathur, Chennai - 600 099</td>
-                <td>Provided &#8377;3000/- towards food distribution</td>
+                <td>Provided &#8377;3,000/- towards food distribution</td>
               </tr>
               <tr>
                 <td>28-Apr-2025</td>
                 <td>Temple, Korattur</td>
-                <td>Provided &#8377;5000/- for food donation at temple</td>
+                <td>Provided &#8377;5,000/- for food donation at temple</td>
               </tr>
               <tr>
                 <td>27-Mar-2025</td>
                 <td>Annual day celebration at Ponneri Union Primary School, Ponneri South</td>
-                <td>Provided &#8377;9300/- for providing lunch boxes and snacks for 150 students</td>
+                <td>Provided &#8377;9,300/- for providing lunch boxes and snacks for 150 students</td>
               </tr>
               <tr>
                 <td>10-Mar-2025</td>
