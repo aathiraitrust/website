@@ -17,9 +17,9 @@ export default function Page() {
             </thead>
             <tbody>
               <tr>
-                <td>20-Aug-2025</td>
-                <td>Atchaya D (Standard XI) and Sanjay D (Standard VII), Sathya Matriculation Higher Secondary School, Purasaiwalkam, Chennai - 600 007</td>
-                <td>Collecting &#8377;51,000/- for two terms (2 & 3) school fee for both children</td>
+                <td></td>
+                <td></td>
+                <td></td>
               </tr>
             </tbody>
           </table>
@@ -37,6 +37,17 @@ export default function Page() {
               </tr>
             </thead>
             <tbody>
+              <tr>
+                <td>09-Nov-2025</td>
+                <td>Atchaya D (Standard XI) and Sanjay D (Standard VII), Sathya Matriculation Higher Secondary School, Purasaiwalkam, Chennai - 600 007</td>
+                <td>Paid &#8377;24,000/- for second term school fee for both children</td>
+              </tr>
+              <tr>
+                <td>04-Nov-2025</td>
+                <td>Tharika S (Standard X) Vatsalya Matriculation Higher Secondary School, Puravallur, Chennai - 600 082</td>
+                <td>Paid &#8377;42,000/- for school fee</td>
+              </tr>
+              
               <tr>
                 <td>12-Jun-2025</td>
                 <td>Atchaya D (Standard XI) and Sanjay D (Standard VII), Sathya Matriculation Higher Secondary School, Purasaiwalkam, Chennai - 600 007</td>
