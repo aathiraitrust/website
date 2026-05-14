@@ -17,9 +17,19 @@ export default function Page() {
             </thead>
             <tbody>
               <tr>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>June-2026</td>
+                <td>Atchaya D (Standard XII), Sathya Matriculation Higher Secondary School, Purasaiwalkam, Chennai - 600 007</td>
+                <td>First term fee &#8377;31,950/-</td>
+              </tr>
+              <tr>
+                <td>June-2026</td>
+                <td>Sanjay D (Standard VIII), Sathya Matriculation Higher Secondary School, Purasaiwalkam, Chennai - 600 007</td>
+                <td>First term fee &#8377;24,250/-</td>
+              </tr>
+              <tr>
+                <td>June-2026</td>
+                <td>M.Lishika, Standard VI, Good Shepherd Matriculation Higher Secondary School, Korattur, Chennai - 600 076</td>
+                <td>First term fee &#8377;20,500/-</td>
               </tr>
             </tbody>
           </table>
@@ -37,6 +47,16 @@ export default function Page() {
               </tr>
             </thead>
             <tbody>
+              <tr>
+                <td>02-Dec-2025</td>
+                <td>M.Lishika, Standard V, EL SHADDAI Nursery & Primary School, Korattur, Chennai - 600 076</td>
+                <td>Paid &#8377;3,000/- as tuition fee for 6 months</td>
+              </tr>
+              <tr>
+                <td>17-Nov-2025</td>
+                <td>M.Lishika, Standard V, EL SHADDAI Nursery & Primary School, Korattur, Chennai - 600 076</td>
+                <td>Paid &#8377;7,200/- towards school third term fee</td>
+              </tr>
               <tr>
                 <td>09-Nov-2025</td>
                 <td>Atchaya D (Standard XI) and Sanjay D (Standard VII), Sathya Matriculation Higher Secondary School, Purasaiwalkam, Chennai - 600 007</td>
