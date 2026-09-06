@@ -43,6 +43,8 @@ export default function Page() {
         <h4 className="text-primary text-center">Individuals</h4>
         <div className="container">
           <ul>
+            <li>Pavithra D S, B. Tech (Agriculture), Mangayarkarasi College of Engineering, Madurai - 652 402</li>
+            <li>Sanchana L, JEE Main and Advanced Course</li>
             <li>Tharika S (Standard X) Vatsalya Matriculation Higher Secondary School, Puravallur, Chennai - 600 082</li>
             <li>Atchaya D (Standard XI) and Sanjay D (Standard VII), Sathya Matriculation Higher Secondary School, Purasaiwalkam, Chennai-07</li>
             <li>S A Siddarthan (Standard IV) and S A Sujitha (Standard VI), Kamaraj Matriculation Hr. Sec. School, Ayanpuram, Chennai-23</li>

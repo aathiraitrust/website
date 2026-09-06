@@ -17,19 +17,9 @@ export default function Page() {
             </thead>
             <tbody>
               <tr>
-                <td>June-2026</td>
-                <td>Atchaya D (Standard XII), Sathya Matriculation Higher Secondary School, Purasaiwalkam, Chennai - 600 007</td>
-                <td>First term fee &#8377;31,950/-</td>
-              </tr>
-              <tr>
-                <td>June-2026</td>
-                <td>Sanjay D (Standard VIII), Sathya Matriculation Higher Secondary School, Purasaiwalkam, Chennai - 600 007</td>
-                <td>First term fee &#8377;24,250/-</td>
-              </tr>
-              <tr>
-                <td>June-2026</td>
-                <td>M.Lishika, Standard VI, Good Shepherd Matriculation Higher Secondary School, Korattur, Chennai - 600 076</td>
-                <td>First term fee &#8377;20,500/-</td>
+                <td>15-Sep-2026</td>
+                <td>Livineish Rao B</td>
+                <td>Sponsoring <strong>&#8377;35,000/-</strong> towards 3 wheeler modified accesibility bike for a child suffering from <strong>Cerebral Palsy and Intellectual Disability</strong></td>
               </tr>
             </tbody>
           </table>
@@ -47,6 +37,31 @@ export default function Page() {
               </tr>
             </thead>
             <tbody>
+              <tr>
+                <td>07-Sep-2026</td>
+                <td>Pavithra D S, B. Tech (Agriculture), Mangayarkarasi College of Engineering, Madurai - 652 402</td>
+                <td>Paid final dues of &#8377;21,000/-</td>
+              </tr>
+              <tr>
+                <td>02-Sep-2026</td>
+                <td>Sanjay D (Standard VIII), Sathya Matriculation Higher Secondary School, Purasaiwalkam, Chennai - 600 007</td>
+                <td>Paid second term fee &#8377;7,500/-</td>
+              </tr>
+              <tr>
+                <td>30-Jul-2026</td>
+                <td>Sanchana L, JEE Main and Advanced Course</td>
+                <td>Paid balance/unpaid course amount of &#8377;20,720/-</td>
+              </tr>
+              <tr>
+                <td>09-Jun-2026</td>
+                <td>Atchaya D (Standard XII), Sathya Matriculation Higher Secondary School, Purasaiwalkam, Chennai - 600 007</td>
+                <td>Paid first term fee &#8377;31,950/-</td>
+              </tr>
+              <tr>
+                <td>09-Jun-2026</td>
+                <td>Sanjay D (Standard VIII), Sathya Matriculation Higher Secondary School, Purasaiwalkam, Chennai - 600 007</td>
+                <td>Paid first term fee &#8377;24,250/-</td>
+              </tr>
               <tr>
                 <td>02-Dec-2025</td>
                 <td>M.Lishika, Standard V, EL SHADDAI Nursery & Primary School, Korattur, Chennai - 600 076</td>
