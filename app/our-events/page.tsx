@@ -48,6 +48,11 @@ export default function Page() {
                 <td>Paid second term fee &#8377;7,500/-</td>
               </tr>
               <tr>
+                <td>06-Aug-2026</td>
+                <td>Child Trust, Kolathur, Chennai</td>
+                <td>Paid &#8377;6,000/- for food donation</td>
+              </tr>
+              <tr>
                 <td>30-Jul-2026</td>
                 <td>Sanchana L, JEE Main and Advanced Course</td>
                 <td>Paid balance/unpaid course amount of &#8377;20,720/-</td>
